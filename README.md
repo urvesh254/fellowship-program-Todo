@@ -1,4 +1,10 @@
-# CoronaSafe Engineering Fellowship Test Problem
+<h1 align="center" style="margin-top: -4px !important;">Todo List</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/build-passing-brightgreen">
+  <img src="https://img.shields.io/badge/JDK-%3E%3D%20v8-blue">
+  <img src="https://img.shields.io/badge/os-windows-success">
+</p>
+
 
 Thanks for applying to the CoronaSafe Engineering fellowship!
 
